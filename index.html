@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <title>Dog Gifs</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <script src="https://code.jquery.com/jquery.js">
+  </script>
+  <script src="assets/javascript/app.js">
+  </script>
+  <link href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" rel="stylesheet">
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+  </script>
+  <link href="assets/css/style.css" media="screen" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="jumbotron" style="background-color: #ffe7e6">
+      <h1 class="display-4">DOG GIFS <i class="fas fa-paw"></i></h1>
+      <div class="container">
+        <div id="dogButtons"></div>
+        <form class="form-inline" id="dog-form" name="dog-form">
+          <input aria-label="Search" class="form-control mr-sm-2" id="breed-input" placeholder="Add a dog!"
+            type="search"> <button class="btn btn-outline-info my-2 my-sm-0" id="add-dog" type="submit">Submit</button>
+        </form>
+        <div class="list" id="dogGifs"></div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

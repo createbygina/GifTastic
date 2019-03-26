@@ -1,0 +1,30 @@
+.dogbutton {
+  margin: 5px;
+  font-family: "Futura", "Trebuchet MS", "Arial", "sans-serif";
+  margin-bottom: 10px;
+}
+
+.ratings {
+  font-family: "Futura", "Trebuchet MS", "Arial", "sans-serif";
+  text-transform: uppercase;
+  margin: 4px;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: "Futura", "Trebuchet MS", "Arial", "sans-serif";
+  margin-bottom: 20px;
+}
+
+#breed-input {
+  font-family: "Futura", "Trebuchet MS", "Arial", "sans-serif";
+}
+
+#dog-form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: #5c5c57;
+}
