@@ -9,9 +9,9 @@ The GIPHY API is used to make a dynamic web page that populates with dog gifs.
 
 
 ##### Built With
-HTML5
-CSS3
-Bootstrap
-JavaScript
-jQuery
-giphy API
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* jQuery
+* giphy API
